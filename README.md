@@ -13,4 +13,4 @@ En plus du nombre total de comparaisons et de vidéos notées qui est effectivem
 Actuellement le chiffre affiché pour chaque vidéo nous semblait un peu trop abstrait. Nous souhaitions donc pour finir proposer un visuel que l'on espère plus "concret". Le tournesol se tournant vers la source lumineuse, nous avions pour idée de noter les vidéos en fonction du niveau d'ensoleillement que celles-ci génèrent. Nous aurions donc toujours ce nombre visible mais positionné sur une sorte de thermomètre allant de l'obscurité à la lumière du soleil (-100 à 100). Les valeurs négatives remplissant la jauge d'obscurité et les valeurs positives la jauge de lumière.
 Fichier associé : 'Data_viz_score_vidéo.pdf'
 
-Les différents graphiques sont représentés sur des maquettes réalisées "à la main". Le code python, ainsi que le dataset utilisé, sont disponibles sur ce repository.
+Les différents graphiques sont représentés sur des maquettes montées "à la main" à partir des graphiques réalisés à partir de l'exploration du dataset. Le code python, ainsi que le dataset utilisé, sont disponibles sur ce repository.
