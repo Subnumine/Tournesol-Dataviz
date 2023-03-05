@@ -1,6 +1,9 @@
 # Tournesol-Dataviz
 
+Dataset utilisé : 'comparisons.csv'
+
 En tant qu'utilisateur, nous nous sommes interrogés sur le genre d'informations que nous aimerions avoir et voici quelques propositions de visuels qui pourraient être, pourquoi pas, ajoutés sur le site de Tournesol.
+Fichier associé : 'Hackaton.pptx'
 
 ## Premièrement sur la page "Mes recommandations"
 La première chose qui nous a semblé "contre-productive" c'est l'accumulation des comparaisons qui peut vite devenir décourageante. Nous avons donc imaginé que sur cette page nous pourrions présenter un graphique du nombre de comparaisons que nous avons effectué en fonction du temps. Nous pourrions sélectionner par exemple l'année (ou toutes), si nous souhaitons afficher les semaines ou les mois, selectionnable en cliquant sur la courbe directement. À droite du graphique seraient alors affichées les vidéos comparées dans cette semaine/mois/année, ou bien les thématiques/tags qui sont le plus revenus. L'affichage des tags n'est pas pertinent et demande trop d'effort pour sortir le graphique, il serait donc plus intéressant de récupérer les thèmes récupérés par le groupe ayant travaillé dessus. Ici l'approche est encore moins pertinente que nous n'avons pu récupérer que les tags de 717 videos à l'aide de l'API.
@@ -13,4 +16,4 @@ En plus du nombre total de comparaisons et de vidéos notées qui est effectivem
 Actuellement le chiffre affiché pour chaque vidéo nous semblait un peu trop abstrait. Nous souhaitions donc pour finir proposer un visuel que l'on espère plus "concret". Le tournesol se tournant vers la source lumineuse, nous avions pour idée de noter les vidéos en fonction du niveau d'ensoleillement que celles-ci génèrent. Nous aurions donc toujours ce nombre visible mais positionné sur une sorte de thermomètre allant de l'obscurité à la lumière du soleil (-100 à 100). Les valeurs négatives remplissant la jauge d'obscurité et les valeurs positives la jauge de lumière.
 Fichier associé : 'Data_viz_score_vidéo.pdf'
 
-Les différents graphiques sont représentés sur des maquettes montées "à la main" à partir des graphiques réalisés à partir de l'exploration du dataset. Le code python, ainsi que le dataset utilisé, sont disponibles sur ce repository.
+Les différents graphiques sont représentés sur des maquettes montées "à la main" à partir des graphiques réalisés à partir de l'exploration du dataset. Le code pythonest  disponible sur ce repository.
